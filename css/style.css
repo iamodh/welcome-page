@@ -142,6 +142,7 @@ body {
 .login-button {
   height: 24px;
   border: none;
+  color: black;
 }
 
 .login-input::placeholder {
