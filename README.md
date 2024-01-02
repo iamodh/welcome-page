@@ -1,4 +1,4 @@
-[Welcome Page](#https://iamodh.github.io/welcome-page/)
+[Welcome Page](https://iamodh.github.io/welcome-page/)
 =
 
 > PC
