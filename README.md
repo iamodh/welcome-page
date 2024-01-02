@@ -9,7 +9,5 @@
 
 ![welcome-page-mobile](https://github.com/iamodh/welcome-page/assets/68431235/5de33bbd-1ddc-4aee-a754-c6bb35d0fd7a)
 
+## Table of Contents
 
-- [Titles](#titles)
-
-  # Titles
